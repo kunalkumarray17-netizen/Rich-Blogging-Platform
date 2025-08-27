@@ -1,1 +1,1 @@
-# Rich-Blogging-Platform
+Richblogging
